@@ -9,5 +9,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShashiRanjan123-gif/backend_node_server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ShashiRanjan123-gif/backend_node_server/issues"
+  },
+  "homepage": "https://github.com/ShashiRanjan123-gif/backend_node_server#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
